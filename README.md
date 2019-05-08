@@ -1,8 +1,13 @@
              How to Make a Program Run 80 Times Faster
 
-NOTE:  The two programs are Python 2.7, not Python 3.
+A particular Python program is made to run 80 times faster by a change in
+algorithm which avoids excessive hits on the harddrive.  For a description
+of the original program and how it was changed click 
+<a href="http://rogerfhouse.com/programming/80-times/index.html">here</a>.
 
-After unzipping 80-times.tar.gz, the following files will exist:
+NOTE:  The programs are Python 2.7, not Python 3.
+
+The following file structure is used:
 
     tf-01.py                    The original program(*)
     my-tf-01.py                 The new modified version of the program
@@ -10,7 +15,8 @@ After unzipping 80-times.tar.gz, the following files will exist:
     stop_words.txt              A file of words to be skipped
     run-original                Linux script to run the original program
     run-new                     Linux script to run the new program
-    README                      The file you are now reading
+    LICENSE                     An MIT license
+    README.md                   The file you are now reading
     run-original.bar            Windows script to run the original program
     run-new.bat                 Windows script to run the new program
 
