@@ -1,0 +1,5 @@
+echo "Run new version of tf-01.py"
+time python my-tf-01.py pride-and-prejudice.txt >new-out.txt
+echo
+echo "Output file new-out.txt"
+cat new-out.txt
