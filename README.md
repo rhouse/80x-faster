@@ -1,5 +1,7 @@
+80x-faster
+==========
              How to Make a Program Run 80 Times Faster
-
+             
 A particular Python program is made to run 80 times faster by a change in
 algorithm which avoids excessive hits on the harddrive.  For a description
 of the original program and how it was changed click 
