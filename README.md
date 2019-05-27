@@ -19,7 +19,7 @@ The following file structure is used:
     run-new                     Linux script to run the new program
     LICENSE                     An MIT license
     README.md                   The file you are now reading
-    run-original.bar            Windows script to run the original program
+    run-original.bat            Windows script to run the original program
     run-new.bat                 Windows script to run the new program
 
 (*) One small change has been made to the original program:  The stop words
